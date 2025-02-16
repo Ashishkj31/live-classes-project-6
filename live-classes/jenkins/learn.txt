@@ -26,3 +26,20 @@ pipeline {
         }
     }
 }
+
+Project Plugings:
+
+•	Eclipse Temurin installer
+•	Sonarqube Scanner
+•	NodeJs
+•	Docker
+•	Docker Commons
+•	Docker Pipeline
+•	Docker API
+•	Docker-build-step
+.   Terrafrom
+.   Git
+.   Git Server
+.   All Pipeline Plugins
+.   AWSCredentials
+.   Kubernetes All Plugins
